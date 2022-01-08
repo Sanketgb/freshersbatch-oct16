@@ -1,4 +1,4 @@
-Hello team 
+Hello Team
 Learning Git & Github
  HEAD
 Welcome sanket new learning 
